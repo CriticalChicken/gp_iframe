@@ -1,1 +1,1 @@
-<li><a href="https://www.criticalchicken.com" target="_blank" rel="external nofollow"><img src="banners/criticalchicken.png" alt="Critical Chicken" height="32" width="88"></a></li>
+<a href="https://www.criticalchicken.com" title="Critical Chicken" target="_blank" rel="external nofollow" class="ticker-item"><img src="banners/criticalchicken.png" alt="Critical Chicken" height="32" width="88"></a>
