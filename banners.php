@@ -1,1 +1,5 @@
 <a href="https://www.criticalchicken.com" title="Critical Chicken" target="_blank" rel="external nofollow" class="ticker-item"><img src="banners/criticalchicken.png" alt="Critical Chicken" height="32" width="88"></a>
+<a href="https://www.criticalchicken.com" title="Critical 2" target="_blank" rel="external nofollow" class="ticker-item"><img src="banners/criticalchicken.png" alt="Critical Chicken" height="32" width="88"></a>
+<a href="https://www.criticalchicken.com" title="Critical 3" target="_blank" rel="external nofollow" class="ticker-item"><img src="banners/criticalchicken.png" alt="Critical Chicken" height="32" width="88"></a>
+<a href="https://www.criticalchicken.com" title="Critical 4" target="_blank" rel="external nofollow" class="ticker-item"><img src="banners/criticalchicken.png" alt="Critical Chicken" height="32" width="88"></a>
+<a href="https://www.criticalchicken.com" title="Critical 5" target="_blank" rel="external nofollow" class="ticker-item"><img src="banners/criticalchicken.png" alt="Critical Chicken" height="32" width="88"></a>
