@@ -1,0 +1,3 @@
+Minimum iframe width:
+	Vibrant:	220px
+	Monochrome:	187px
