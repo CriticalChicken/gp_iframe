@@ -28,7 +28,7 @@ All other trademarks referred to are trademarks of their respective owners.
 <a href="https://www.criticalchicken.com/webring" target="_blank" rel="help" class="join">Join<span class="today"> today</span></a>
 </div>
 <main id="ticker">
-<div class="ticker">
+<div class="ticker" role="marquee">
 <?php $lines=file('banners.php',FILE_IGNORE_NEW_LINES|FILE_SKIP_EMPTY_LINES);shuffle($lines);foreach($lines as $line){echo $line."\n";} ?>
 </div>
 </main>
