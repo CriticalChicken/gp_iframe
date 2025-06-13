@@ -1,5 +1,7 @@
 # Gaymers&plus; Webring
 
+[![Gaymers&plus; Webring logo](https://github.com/user-attachments/assets/614524d1-622a-4c97-9ee3-7d9a9e9cf46f)](https://www.criticalchicken.com/webring)
+
 We&rsquo;re building an inclusive place for LGBTQ&plus; gamers and creators. [And we&rsquo;d love you to join.](https://www.criticalchicken.com/webring)
 
 ## The widget
