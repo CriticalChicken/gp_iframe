@@ -11,9 +11,7 @@ Our widget displays member sites&rsquo; mini-banners, smoothly scrolling, in a r
 - It comes in two flavours: a [vibrant](https://www.criticalchicken.com/gp_iframe/vibrant.php), Pride-themed one; and a more businesslike [monochrome](https://www.criticalchicken.com/gp_iframe/monochrome.php) one.
 - It&rsquo;s designed to live in an HTML `iframe`, so we made sure it&rsquo;s good at squeezing into tight spaces.
 - It reacts to users&rsquo; light- and dark-mode preferences.
-- If a user has turned on the &ldquo;Reduce animations&rdquo; accessibility feature on their device, the widget stays still.
-  - The same goes for users who&rsquo;ve disabled JavaScript in their web browsers.
-  - We also offer [static vibrant](https://www.criticalchicken.com/gp_iframe/vibrant_static.php) and [static monochrome](https://www.criticalchicken.com/gp_iframe/monochrome_static.php) variants, for websites where animation just wouldn&rsquo;t look right.
+- If a user has enabled &ldquo;Reduce animations&rdquo; on their device, the widget politely stays still.
 - And there are no analytics, trackers, ads, or cookies involved, which is nice.
  
 ## Setting up the widget
@@ -31,15 +29,3 @@ Simply choose your preferred variant, and copy and paste the HTML code. Change t
 **Minimum width:** 187px
 
 `<iframe src="https://www.criticalchicken.com/gp_iframe/monochrome.php" width="100%" height="64" frameborder="0" scrolling="no"></iframe>`
-
-### Vibrant, static ([live demo](https://www.criticalchicken.com/gp_iframe/vibrant_static.php))
-
-**Minimum width:** 237px
-
-`<iframe src="https://www.criticalchicken.com/gp_iframe/vibrant_static.php" width="100%" height="64" frameborder="0" scrolling="no"></iframe>`
-
-### Monochrome, static ([live demo](https://www.criticalchicken.com/gp_iframe/monochrome_static.php))
-
-**Minimum width:** 204px
-
-`<iframe src="https://www.criticalchicken.com/gp_iframe/monochrome_static.php" width="100%" height="64" frameborder="0" scrolling="no"></iframe>`
